@@ -1,0 +1,39 @@
+Script started on 2021-11-16 15:14:09+02:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="112" LINES="34"]
+]0;tp4774@tp4774-VirtualBox: ~/Desktop/assignment02 [01;32mtp4774@tp4774-VirtualBox[00m:[01;34m~/Desktop/assignment02 [00m$ sui[K user1 
+Password: 
+]0;user1@tp4774-VirtualBox: /home/tp4774/Desktop/assignment02 [01;32muser1@tp4774-VirtualBox[00m:[01;34m/home/tp4774/Desktop/assignment02 [00m$ gcc scoreboard.c -o scoreboard
+[01m[Kscoreboard.c:[m[K In function ‘[01m[Kmain[m[K’:
+[01m[Kscoreboard.c:13:2:[m[K [01;35m[Kwarning: [m[Kimplicit declaration of function ‘[01m[Kcuserid[m[K’ [[01;35m[K-Wimplicit-function-declaration[m[K]
+   13 |  [01;35m[Kcuserid[m[K(buf);
+      |  [01;35m[K^~~~~~~[m[K
+[01m[Kscoreboard.c:16:19:[m[K [01;35m[Kwarning: [m[Kimplicit declaration of function ‘[01m[Ktime[m[K’ [[01;35m[K-Wimplicit-function-declaration[m[K]
+   16 |  srand((unsigned) [01;35m[Ktime[m[K(&t));
+      |                   [01;35m[K^~~~[m[K
+]0;user1@tp4774-VirtualBox: /home/tp4774/Desktop/assignment02 [01;32muser1@tp4774-VirtualBox[00m:[01;34m/home/tp4774/Desktop/assignment02 [00m$ ./scoreboard
+
+user1 
+]0;user1@tp4774-VirtualBox: /home/tp4774/Desktop/assignment02 [01;32muser1@tp4774-VirtualBox[00m:[01;34m/home/tp4774/Desktop/assignment02 [00m$ ./scoreboard
+
+user1 
+]0;user1@tp4774-VirtualBox: /home/tp4774/Desktop/assignment02 [01;32muser1@tp4774-VirtualBox[00m:[01;34m/home/tp4774/Desktop/assignment02 [00m$ ./scoreboard
+
+user1 
+]0;user1@tp4774-VirtualBox: /home/tp4774/Desktop/assignment02 [01;32muser1@tp4774-VirtualBox[00m:[01;34m/home/tp4774/Desktop/assignment02 [00m$ su user2
+Password: 
+]0;user2@tp4774-VirtualBox: /home/tp4774/Desktop/assignment02 [01;32muser2@tp4774-VirtualBox[00m:[01;34m/home/tp4774/Desktop/assignment02 [00m$ ./scoreboard
+
+user2 
+]0;user2@tp4774-VirtualBox: /home/tp4774/Desktop/assignment02 [01;32muser2@tp4774-VirtualBox[00m:[01;34m/home/tp4774/Desktop/assignment02 [00m$ ./scoreboard
+
+user2 
+]0;user2@tp4774-VirtualBox: /home/tp4774/Desktop/assignment02 [01;32muser2@tp4774-VirtualBox[00m:[01;34m/home/tp4774/Desktop/assignment02 [00m$ ./scoreboard
+
+user2 
+]0;user2@tp4774-VirtualBox: /home/tp4774/Desktop/assignment02 [01;32muser2@tp4774-VirtualBox[00m:[01;34m/home/tp4774/Desktop/assignment02 [00m$ exit
+exit
+]0;user1@tp4774-VirtualBox: /home/tp4774/Desktop/assignment02 [01;32muser1@tp4774-VirtualBox[00m:[01;34m/home/tp4774/Desktop/assignment02 [00m$ exit
+exit
+]0;tp4774@tp4774-VirtualBox: ~/Desktop/assignment02 [01;32mtp4774@tp4774-VirtualBox[00m:[01;34m~/Desktop/assignment02 [00m$ exit
+exit
+
+Script done on 2021-11-16 15:15:07+02:00 [COMMAND_EXIT_CODE="0"]

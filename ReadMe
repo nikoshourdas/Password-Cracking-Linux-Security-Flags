@@ -1,0 +1,8 @@
+the commands used for the first part of the Assignment : 
+
+1) sudo john shadow.txt 
+2) sudo john --show shadow.txt 
+3) cat CrackedPasswords.txt 
+4) sort -t : -k 3 CrackedPasswords.txt >> CrackedPasswords.txt 
+
+

@@ -1,0 +1,10 @@
+1 tp4774
+82 tp4774
+15 user1
+98 user2
+57 user1
+62 user1
+28 user1
+34 user2
+18 user2
+34 user2
